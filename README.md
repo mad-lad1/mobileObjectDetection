@@ -1,0 +1,2 @@
+# Object Detection on Mobile Devices using Flutter
+This project is a flutter implementation of the object detection app from [TensorFlow Lite]. However, the detection will be run on a cloud server and the results will be sent to the mobile device. The app will then display the results on the screen by drawing bounding boxes around the detected objects. This should be done in real-time with a low latency.
